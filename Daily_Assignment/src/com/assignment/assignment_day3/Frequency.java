@@ -3,7 +3,7 @@ package com.assignment.assignment_day3;
 public class Frequency {
 //    2) Java Program to find the frequency of each element in the array
 
-    public static void main(String[] args) {
+    public static void main(String1[] args) {
         int[] arr = {1,2,1,3,4,2,5,3,6,4,2,1};
         boolean[] frequency =new  boolean[arr.length];
         System.out.println("________");
