@@ -1,10 +1,12 @@
 package com.assignment.assignment_day3;
 
+import java.util.HashSet;
+import java.util.Set;
+
 public class Duplicate {
 
 //    8) Java Program to print the duplicate elements of an array
-
-    public static void main(String1[] args) {
+public static void main(String[] args) {
         int arr [] = {1,3,2,4,5,6,1,5,2,6};
         for (int i =0;i< arr.length;i++){
             int count=0;
